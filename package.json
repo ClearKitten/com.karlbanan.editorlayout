@@ -1,7 +1,7 @@
 {
   "name": "com.karlbanan.editorlayout",
   "version": "1.0.0",
-  "displayName": "KarlBanan Editor Layout",
+  "displayName": "Editor Layout",
   "description": "Core inspector layout and field API for custom Unity editor tools.",
   "unity": "6000.0",
   "license": "MIT",

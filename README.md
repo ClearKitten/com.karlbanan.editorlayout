@@ -1,6 +1,6 @@
 # KarlBanan Editor Layout
 
-KarlBanan Editor Layout is a small Unity editor package for building custom inspector layouts from reusable elements.
+Editor Layout is a small Unity editor package for building custom inspector layouts from reusable elements.
 
 This is the **core** package. It contains default layout helpers and base APIs, but it intentionally does not include a large set of ready to use field types. If you want ready to use field types, consider using the package `com.karlbanan.editorlayout.extras`
 
@@ -138,7 +138,7 @@ This package includes a **Core Usage Example** sample.
 In Unity:
 
 1. Open **Window > Package Manager**
-2. Select **KarlBanan Editor Layout**
+2. Select **Editor Layout**
 3. Open **Samples**
 4. Import **Core Usage Example**
 
