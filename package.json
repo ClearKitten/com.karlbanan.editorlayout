@@ -2,8 +2,27 @@
   "name": "com.karlbanan.editorlayout",
   "version": "1.0.0",
   "displayName": "KarlBanan Editor Layout",
-  "description": "Core inspector layout and field API for custom Unity editor tools",
+  "description": "Core inspector layout and field API for custom Unity editor tools.",
   "unity": "6000.0",
+  "license": "MIT",
+  "documentationUrl": "https://github.com/ClearKitten/com.karlbanan.editorlayout#readme",
+  "changelogUrl": "https://github.com/ClearKitten/com.karlbanan.editorlayout/blob/main/CHANGELOG.md",
+  "licensesUrl": "https://github.com/ClearKitten/com.karlbanan.editorlayout/blob/main/LICENSE.md",
+  "keywords": [
+    "editor",
+    "inspector",
+    "layout",
+    "unity-editor",
+    "custom-inspector"
+  ],
+  "samples": [
+    {
+      "displayName": "Core Usage Example",
+      "description": "Shows how to create and arrange custom inspector elements using the core layout API.",
+      "path": "Samples~/CoreUsage"
+    }
+  ],
+  "hideInEditor": false,
   "dependencies": {},
   "author": {
     "name": "Karl Pettersson",
